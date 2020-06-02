@@ -1,0 +1,137 @@
+/* ========= YELLOW ========== */
+.hex-col2,
+.intro-socials > a:hover,
+.title h2:before,
+.title h2:after,
+.crystal-table:hover .price:before,
+.owl-dot.active,
+.bottom-footer,
+blockquote strong:before,
+header.sticky{
+	background-color:#f0af0a;
+}
+
+.name h1,
+.option-isotop li a.selected,
+.links > a:hover,
+.testimonial-box > h5 span,
+.crystal-contact strong,
+.page-title h1,
+.page-title ul li,
+.share-post .round-socials a:hover,
+.comment-detail > span{
+	color:#f0af0a;
+}
+
+.hex-col2:before,
+.hex-col2:after,
+.simple-table{
+	border-color:#f0af0a;
+}
+@media (max-width:980px){
+header{background-color:#f0af0a}
+
+}
+
+/* ========= DARK BLUE ========== */
+.hex-col1,
+.crystal-skills .progress,
+.crystal-experience:before,
+.crystal-table,
+.owl-dot,
+footer{
+	background-color:#00252e;
+}
+
+.date > span,
+.expereice-inner > span ,
+.price > i,
+.crystal-interest > ul li:hover a,
+.bottom-footer span,
+.bottom-footer p,
+.social a,
+.single-post .post-title,
+blockquote strong{
+    color:#00252e;
+}
+
+.hex-col1:before,
+.hex-col1:after,
+.crystal-interest > ul li:hover a{
+	border-color:#00252e;
+}
+@media (max-width:980px){
+.crystal-intro,
+.crystal-intro:before, 
+.crystal-intro:after,
+.page-title{
+	background-color:#00252e;
+}
+
+}
+/* ========= GREEN ========== */
+.hex-col6,
+.fancy-btn span,
+.crystal-skills .progress .progress-bar,
+.price:before,
+.crystal-table:hover .bottom-btn:before,
+button,
+.post-date,
+.comment-detail > a,
+.simple-price{
+	background-color:#66bdb1;
+}
+
+h1, h2, h3, h4, h5, h6,
+a:hover,
+a:active,
+a:focus,
+.meta > li i,
+.readmore,
+blockquote strong span,
+.post-bottom strong{
+    color:#66bdb1;
+}
+
+.hex-col6:before,
+.hex-col6:after,
+.expereice-inner,
+.expereice-inner:before,
+.testimonial-img,
+.testimonial-box,
+.testimonial-img .hexTop,
+.testimonial-img .hexBottom,
+.post-date:before{
+	border-color:#66bdb1;
+}
+@media (max-width:980px){
+.price{background-color:#66bdb1}
+}
+
+/* ========= LIGHT BLUE ========== */
+.hex-col4,
+.table-content:before,
+.crystal-interest li span:before,
+.crystal-img > span:before{
+	background-color:#035468;
+}
+
+.title h2,
+.option-isotop li a,
+.crystal-interest > ul li a,
+.share-post .round-socials a,
+.author-detail h3,
+.comment-detail > h5,
+nav li.current a{
+    color:#035468;
+}
+
+.hex-col4:before,
+.hex-col4:after,
+.crystal-interest > ul li a,
+.share-post .round-socials a{
+	border-color:#035468;
+}
+@media (max-width:980px){
+.table-content{background-color:#035468}
+}
